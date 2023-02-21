@@ -1,0 +1,7 @@
+{
+    "Full path of monitored directory": "orig/data",
+    "Full pathname to verification file": "/home/student/Desktop/Deliverables/orig/vDB",
+    "Number of directories traversed": 2,
+    "Number of files traversed": 3,
+    "Time to complete the initialization mode": 0.42128562927246094
+}

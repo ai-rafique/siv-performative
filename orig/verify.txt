@@ -1,0 +1,24 @@
+
+Integrity Change Detected : The file orig/data/x.txt size has changed. (OLD :6, NEW:4)
+
+Integrity Change Detected : The owner of file orig/data/x.txt has been changed.(OLD :root, NEW:bob)
+
+Integrity Change Detected : The group of file orig/data/x.txt has been changed.(OLD :root, NEW:alice)
+
+Integrity Change Detected :orig/data/x.txt has different last modified date.(OLD :Tue Jan 10 09:35:32 2023, NEW:Thu Jan  1 01:00:00 1970)
+
+Integrity Change Detected :orig/data/x.txt has different message digest.(OLD :1d229271928d3f9e2bb0375bd6ce5db6c6d348d9, NEW:6fcea05b38b1e4ce581d2de2dd898ef7f4d2563b)
+
+Integrity Change Detected :orig/data/a has different accesss rights.(OLD :drwxr-xr-x, NEW: drwxrwxrwx)
+
+Integrity Change Detected : orig/data/b has been deleted
+
+Integrity Change Detected : orig/data/a/blahblah.gz has been deleted
+{
+    "Full path of monitored directory": "orig/data",
+    "Full pathname to verification file": "/home/student/Desktop/Deliverables/orig/vDB",
+    "Number of directories traversed": 1,
+    "Number of files traversed": 2,
+    "Time to complete the verification mode": 0.8134841918945312,
+    "Number of changes detected": 8
+}

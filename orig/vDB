@@ -1,0 +1,48 @@
+{
+    "orig/data/x.txt": {
+        "Full path to file/directory": "orig/data/x.txt",
+        "Size of the file": 6,
+        "Name of user owning the file/directory": "root",
+        "Name of group owning the file/directory": "root",
+        "Access rights to the file/directory (symbolic)": "-rw-r--r--",
+        "Last modification date": "Tue Jan 10 09:35:32 2023",
+        "Computed message digest with": "1d229271928d3f9e2bb0375bd6ce5db6c6d348d9",
+        "specified hash function over file contents": "sha1"
+    },
+    "orig/data/b": {
+        "Full path to file/directory": "orig/data/b",
+        "Size of the file": 4096,
+        "Name of user owning the file/directory": "root",
+        "Name of group owning the file/directory": "root",
+        "Access rights to the file/directory (symbolic)": "drwxr-xr-x",
+        "Last modification date": "Tue Jan 10 09:35:32 2023"
+    },
+    "orig/data/a": {
+        "Full path to file/directory": "orig/data/a",
+        "Size of the file": 4096,
+        "Name of user owning the file/directory": "root",
+        "Name of group owning the file/directory": "root",
+        "Access rights to the file/directory (symbolic)": "drwxr-xr-x",
+        "Last modification date": "Tue Jan 10 09:35:32 2023"
+    },
+    "orig/data/a/blah.txt": {
+        "Full path to file/directory": "orig/data/a/blah.txt",
+        "Size of the file": 0,
+        "Name of user owning the file/directory": "root",
+        "Name of group owning the file/directory": "root",
+        "Access rights to the file/directory (symbolic)": "-rw-r--r--",
+        "Last modification date": "Tue Jan 10 09:35:32 2023",
+        "Computed message digest with": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "specified hash function over file contents": "sha1"
+    },
+    "orig/data/a/blahblah.gz": {
+        "Full path to file/directory": "orig/data/a/blahblah.gz",
+        "Size of the file": 45,
+        "Name of user owning the file/directory": "root",
+        "Name of group owning the file/directory": "root",
+        "Access rights to the file/directory (symbolic)": "-rw-r--r--",
+        "Last modification date": "Tue Jan 10 09:35:32 2023",
+        "Computed message digest with": "26eaf8c71c7f48887383992178d4dd9e2daee9a0",
+        "specified hash function over file contents": "sha1"
+    }
+}
