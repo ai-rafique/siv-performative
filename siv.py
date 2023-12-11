@@ -338,7 +338,7 @@ class SIV:
                             changes = changes+1
                     else:
                         the_file.write(
-                            "\nIntegrity Change Detected :" + file_path + " has been added\n")
+                            "\nIntegrity Change Detected :" + dir_path + " has been added\n")
                     directory_counter = directory_counter+1
 
             """
